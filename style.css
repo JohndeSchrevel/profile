@@ -1,0 +1,155 @@
+#johnds {
+  border-radius: 50%;
+  height: 300px;
+  width: 300px;
+  box-shadow: 2px 2px 5px grey;
+}
+
+body{
+    background-image: url('images/low_poly_image.jpg');
+      background-size: cover;
+
+  min-height: 100%;
+  min-width: 1024px;
+
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: 100%;
+
+  /* Set up positioning */
+
+  top: 0;
+  left: 0;
+
+  font-family: 'Slabo 27px', sans-serif;
+}
+
+.list-inline  li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.intro {
+  width: 700px;
+  margin: 1% auto;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  border-right: 1px solid grey;
+  border-left: 1px solid grey;
+  border-radius: 5%;
+}
+
+.div-list {
+  width: 600px;
+  margin: 1% auto;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  border-right: 1px solid grey;
+  border-left: 1px solid grey;
+  border-radius: 5%;
+}
+
+.div-books {
+  width: 300px;
+  margin: 1% auto;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  border-right: 1px solid grey;
+  border-left: 1px solid grey;
+  border-radius: 5%;
+}
+
+.div-books h3 {
+  background-color: #d5d5d5;
+}
+
+.div-movies {
+  width: 300px;
+  margin: 1% auto;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  border-right: 1px solid grey;
+  border-left: 1px solid grey;
+  border-radius: 5%;
+}
+
+.div-movies h3 {
+  background-color: #d5d5d5;
+}
+
+.div-projects {
+  width: 300px;
+  margin: 1% auto;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  border-right: 1px solid grey;
+  border-left: 1px solid grey;
+  border-radius: 5%;
+}
+
+.div-projects h3 {
+  background-color: #d5d5d5;
+}
+
+.div-interests {
+  width: 300px;
+  margin: 1% auto;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  border-right: 1px solid grey;
+  border-left: 1px solid grey;
+  border-radius: 5%;
+}
+.div-interests h3 {
+  background-color: #d5d5d5;
+}
+
+.facebook-color {
+  color: #4768ad;
+}
+
+.linkedin-color {
+  color: #2e76b0;
+}
+
+.github-color {
+  color: #25292e;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+h1 {
+  color: black;
+  font-size: 50px;
+  font-family: Courier;
+}
+
+h2 {
+  color: grey;
+  font-size: 35px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+p {
+  font-size: 18px;
+  margin: 0 auto;
+  width: 60%;
+}
+ a {
+  text-decoration: underline;
+  font-family: Arial, monospace;
+  color: black;
+ }
+
+ ul {
+  list-style-type: none;
+ }
+
+.fab {
+  font-size: 50px;
+}
